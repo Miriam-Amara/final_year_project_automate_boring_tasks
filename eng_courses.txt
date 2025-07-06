@@ -1,0 +1,959 @@
+INDUSTRIAL ENGINEERING
+https://eng.uniben.edu/course-structure-bachelor-of-engineering-industrial-engineering/
+
+Course Code						Course Credit
+First Semester
+CVE 211						3
+ECP 281						2
+EMA 281						2
+EEE 211						3
+ENS 211						2
+MEE 211						3
+MEE 221						3
+PRE 211						2
+ELA 201						2
+ 						22
+Second Semester
+CHE 222						3
+EMA 282						4
+EEE 212						3
+IDE 222						2
+MEE 212						3
+MEE 222						3
+PRE 212						3
+ELA 202						2
+ 						23
+Course Code						Course Credit
+First Semester
+EMA 381						3
+IDE 381						3
+IDE 321						2
+IDE 331						3
+IDE 341						3
+IDE 371						3
+MEE 351						2
+MEE 361						2
+ELA 301						2
+ 						23
+Second Semester
+EMA 382						3
+PRE 322						2
+PRE 332						3
+IDE 342						3
+IDE 372						2
+IDE 392						3
+MEE 352						2
+MEE 362						2
+ELA 302						2
+ 						21
+Course Code						Course Credit
+First Semester
+CED 300						2
+IDE 401						2
+IDE 411						3
+IDE 421						2
+IDE 431						3
+IDE 441						2
+IDE 451						2
+IDE 461						3
+IDE 473						3
+IDE 481						2
+ 						24
+Second Semester
+UBITS						6
+ 						6
+Course Code						Course Credit
+First Semester
+IDE 511						3
+IDE 521						3
+IDE 531						2
+IDE 551						2
+IDE 561						3
+IDE 573						2
+IDE 563						2
+IDE 501						3
+Elective Course Title (Choose one from these courses)						 
+IDE 541						3
+PRE 581						3
+PRE 591						3
+ 						23
+ 						 
+Course Code						Course Credit
+Second Semester
+IDE 522						3
+IDE 532						2
+IDE 552						2
+IDE 562						3
+IDE 564						2
+IDE 512						2
+IDE 502						3
+Elective Course Title (Choose one from these courses)						 
+IDE 542						 2
+IDE 572						2
+PRE 592						2
+ 						19
+Error: list index out of range
+It's no longer a table.
+
+PRODUCTION ENGINEERING
+https://eng.uniben.edu/course-structure-bachelor-of-engineering-production-engineering/
+
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA 281						2
+ECP 281						2
+MEE 211						3
+CVE 211						3
+MEE 221						3
+EEE 211						3
+PRE 211						2
+ENS 211						2
+ELA 201						2
+Total Credits						22
+Second Semester
+EMA 282						4
+MEE 212						3
+MEE 222						3
+CHE 222						3
+EEE 212						3
+PRE 212						2
+ELA 202						2
+PRE 222						2
+ 						22
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA 381						3
+MEE 361						2
+MEE 351						2
+MEE 311						3
+MEE 321						3
+EEE 317						3
+PRE 321						3
+CVE 311						3
+ELA 301						2
+Total Credits						24
+Second Semester
+EMA 382						4
+MEE 362						2
+MEE 352						2
+MEE 312						3
+EEE 318						2
+PRE 322						2
+PRE 332						3
+PRE 314						2
+ELA 302						2
+ 						22
+COURSE CODE						COURSE CREDIT
+First Semester
+PRE 411						3
+MEE 441						2
+PRE 441						3
+PRE 431						3
+PRE 421						3
+PRE 451						3
+PRE 461						3
+PRE 401						2
+PRE 473						3
+CED 300						2
+Total Credits                                                                     						27
+Second Semester
+UBT400						6
+Total Credits                                                                     						6
+COURSE CODE						COURSE CREDIT
+First Semester
+PRE 541						2
+PRE 573						2
+PRE 571						3
+PRE 531						3
+PRE 581						3
+PRE 521						3
+PRE 561						2
+PRE 551						2
+PRE 501						3
+Total Credits						23
+Second Semester
+PRE 592						3
+PRE 522						3
+PRE 582						3
+PRE 532						3
+PRE 562						2
+PRE 564						2
+PRE 502						3
+PRE 572						3
+Total Credits						19
+Error: list index out of range
+It's no longer a table.
+
+MECHANICAL ENGINEERING
+https://eng.uniben.edu/course-structure-bachelor-of-engineering-mechanical-engineering/
+
+COURSE CODE						CREDIT LOAD
+First Semester
+CVE211						3
+ECP281						2
+EEE211						3
+ELA201						2
+EMA281						2
+ENS211						2
+MEE211						3
+MEE221						3
+PRE211						2
+Total Credits						22
+Second Semester
+CHE222						3
+EEE212						3
+ELA202						2
+EMA282						4
+MEE212						3
+MEE222						3
+PRE212						2
+Total credits						20
+COURSE CODE						CREDIT LOAD
+First Semester
+CVE311						3
+EEE317						3
+ELA301						2
+EMA381						3
+MEE311						3
+MEE321						3
+MEE351						2
+MEE361						2
+PRE311						2
+Total credits						23
+ 						2
+Second Semester
+ELA302						2
+EMA382						4
+MEE312						3
+MEE322						3
+MEE332						2
+MEE342						2
+MEE352						2
+MEE362						2
+MEE372						1
+Total Credits						23
+COURSE CODE						CREDIT LOAD
+First Semester
+ELA401						2
+EMA481						3
+MEE411						3
+MEE421						3
+MEE431						2
+MEE441						2
+MEE451						2
+MEE461						3
+MEE471						2
+ 						22
+Second Semester
+UBT400						6
+TOTAL CREDITS						6
+COURSE CODE						CREDIT LOAD
+First Semester
+MEE501						3
+MEE505						2
+MEE511						3
+MEE521						3
+MEE531						3
+MEE541						3
+MEE551						2
+MEE561						3
+MEE571						2
+MEE581						3
+MEE591						3
+PRE571						3
+TOTAL CREDITS						21
+Second Semester
+MEE502						3
+MEE506						2
+MEE512						3
+MEE522						3
+MEE532						3
+MEE542						3
+MEE552						2
+MEE562						3
+MEE572						2
+MEE582						3
+MEE592						3
+PRE572						3
+TOTAL CREDITS						21
+
+AGRICULTURAL ENGINEERING
+https://eng.uniben.edu/details-of-courses/
+
+Course Code  						Credits  
+CHM 111  						3  
+CHM 113  						3  
+MTH 111  						3  
+MTH112  						3  
+PHY 1 1 1  						3  
+PHY 113  						3  
+GST 1 1 1  						2  
+GST 112  						2  
+ 						22  
+Course Code  						Credits  
+CHM 122  						o  
+CHM 124  						3  
+MTH 123  						3  
+MTH 125  						3  
+PHY 109  						2  
+PHY 124  						4  
+GST 121  						2  
+GST 122  						2  
+GST123  						2  
+   						24  
+Course Code  						Credits  
+CHE211  						2  
+CVE211  						3  
+ECP281  						2  
+EEE211  						3  
+EMA281  						2  
+ENS211  						2  
+MEE211  						3  
+MEE221  						3  
+PRE211  						2  
+ELA201  						2  
+   						24  
+Course Code  						Credits  
+AGE202  						2  
+CHE222  						3  
+EEE212  						3  
+EMA282  						4  
+MEE21 2  						3  
+MEE222  						2  
+PRE212  						2  
+ELA 202  						2  
+   						21  
+						
+Course Code  						Credits  
+AGE 301  						2  
+AGE 303  						2  
+AGE 309  						2  
+AGE 311  						2  
+AGE 3 13  						2  
+ECE 341  						3  
+EMA 381  						3  
+MEE 311  						3  
+MEE321  						3  
+MEE351						2
+MEE 361  						2  
+   						26  
+Course Code  						Credits  
+AGE 302  						2  
+AGE 304  						2  
+AGE 306  						2  
+AGE 308  						2  
+AGE 3 12  						2  
+AGE 3 14						2
+AGE 3 16  						2  
+CVE 344  						2  
+EMA382  						4  
+MEE312  						3  
+   						23  
+Course Code  						Credits  
+AGE 401  						2  
+AGE 403  						2  
+AGE 411  						2  
+AGE 413  						2  
+AGE 421  						3  
+AGE 431  						2  
+CED300  						2  
+CVE415  						2  
+CVE421  						2  
+EMA481  						4  
+MEE441  						2  
+   						23  
+Course Code  						Credits  
+PRE571  						3  
+AGE 505  						2  
+AGE 507  						2  
+AGE 509  						2  
+AGE 511  						2  
+AGE 521  						2  
+AGE 523  						2  
+AGE 531  						2  
+AGE 533  						3  
+AGE597  						3  
+   						23  
+Course Code  						Credits  
+PRE 572  						3  
+AGE 502  						2  
+AGE 506  						2  
+AGE 550  						2  
+AGE 598  						3  
+AGE 510                     Agricultural Land Drainage                2						2
+AGE 5 14  						3  
+AGE 5 16  						3  
+AGE 5 12  						2  
+AGE 518  						2  
+AGE 544  						2  
+AGE 546  						2  
+AGE 548  						2  
+AGE 552  						2  
+   						20  
+AGE 504  						2  
+AGE 508  						2  
+AGE 522  						3  
+AGE 526  						2  
+AGE 528  						2  
+AGE 540  						3  
+AGE 542  						2  
+AGE 554  						2  
+   						21  
+AGE 530  						2  
+AGE 532  						2  
+AGE 536  						2  
+AGE 534  						3  
+AGE 538  						2  
+AGE 556  						2  
+AGE 558  						2  
+   						16  
+AGE 520  						2  
+AGE 560						3
+AGE 562  						2  
+AGE 564  						2  
+AGE 566  						2  
+AGE 568  						2  
+AGE 570  						2  
+   						15  
+AGE 572     						2
+AGE 574  						3  
+AGE 576  						3  
+AGE 578  						2  
+AGE 580  						2  
+AGE 582  						2  
+AGE 584  						2  
+AGE 586  						2  
+   						18  
+
+CHEMICAL ENGINEERING
+https://eng.uniben.edu/course-structure-b-eng-chemical-engineering/
+
+COURSE CODE						COURSE CREDIT
+First Semester
+ECP 281						2
+EMA 281						2
+MEE 211						3
+MEE 211						3
+EEE 211						3
+CVE 211						3
+PRE 211						2
+CHE 211						2
+ENS 211						2
+ELA 211						2
+Total Credits						24
+Second Semester
+EMA282						4
+MEE212						3
+MEE222						3
+EEE212						3
+CHE222						3
+CHE212						2
+PRE212						2
+ELA202						2
+Total Credits						22
+COURSE CODE						COURSE CREDIT
+First Semester
+MEE351						2
+CHE321						3
+CHE331						2
+CHE341						3
+CHE351						3
+CHE361						3
+EMA381						3
+CHE301						2
+Total Credits						21
+Second Semester
+CHE 312						2
+CHE322						3
+CHE332						3
+CHE352						3
+CHE362						3
+CHE372						3
+EMA382						4
+ 						2
+                                                                                          Total Credits						23
+COURSE CODE						COURSE CREDIT
+First Semester
+CHE411						2
+CHE421						3
+CHE431						3
+CHE441						3
+CHE451						3
+CHE461						3
+CHE471						2
+CHE481						2
+CHE401						2
+CED 300						2
+                                                                   Total Credits						25
+Second Semester
+  University of Benin Industrial Training Scheme (UBITS) (Six Months Industrial Training)                                                     						  University of Benin Industrial Training Scheme (UBITS) (Six Months Industrial Training)                                                     
+COURSE CODE						COURSE CREDIT
+First Semester
+CHE511						2
+CHE521						2
+CHE531						3
+CHE541						3
+CHE561						2
+*CHE571/ CHE591						3
+CHE581						3
+CHE500						3
+PRE571						3
+                                                                                              Total credits						23
+Second Semester
+CHE512						2
+CHE522						3
+CHE532						3
+*CHE542/ CHE552						3
+CHE562						3
+CHE500						3
+PRE 572						3
+                                                                                            Total Credits						20
+
+ELECTRICAL ELECTRONICS ENGINEERING
+https://eng.uniben.edu/course-structure-bachelor-of-engineering-electrical-electronic-engineering/
+
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA281						2
+ECP281						2
+MEE221						3
+MEE211						3
+CVE211						3
+PRE211						2
+EEE211						3
+ELA201						2
+ENS211						2
+Second Semester
+Total Credits						22
+EMA282						4
+MEE212						3
+MEE222						3
+CHE222						3
+PRE212						2
+EEE212						3
+ELA202						2
+EEE272						2
+Total Credits						22
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA381						3
+MEE351						2
+EEE331						3
+MEE361						2
+CPE375						3
+PRE311						2
+EEE371						3
+EEE311						3
+EEE313						2
+ELA301						2
+Second Semester
+Total Credits						24
+EMA382						3
+EEE376						3
+EEE312						3
+EEE314						3
+EEE316						3
+EEE332						3
+EEE372						3
+ELA302						2
+Total Credits						29
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA481						3
+EEE431						3
+EEE433						3
+EEE451						3
+EEE471						3
+CPE477						3
+EEE473						3
+EEE453						3
+ELA401						2
+Total Credits						24
+Second Semester
+UBT400						6
+Total Credits						6
+COURSE CODE						COURSE CREDIT
+First Semester
+PRE571						3
+EEE531						3
+EEE533						3
+EEE591						3
+EEE571						3
+EEE573						3
+EEE590						0
+EEE500						3
+Second Semester
+Total Credits						21
+PRE572						3
+EEE590						0
+EEE500						3
+Error: list index out of range
+It's no longer a table.
+
+COMPUTER ENGINEERING
+https://eng.uniben.edu/course-structure-bachelor-of-engineering-computer-engineering/
+
+COURSE CODE						CREDITS
+First Semester
+EMA281						2
+ECP 281						2
+ENS 211						2
+MEE 211						3
+MEE 221						3
+EEE 211						3
+PRE 211						2
+CVE 211						3
+ELA 201						2
+TOTAL						22
+Second Semester
+EMA282						4
+CHE222						3
+MEE252						3
+MEE 222						3
+EEE212						3
+PRE 212						2
+MEE262						3
+ELA 201						2
+TOTAL						23
+Course Code						Credits
+First Semester
+EEE 331						2
+CPE 301						2
+CPE 375						3
+CPE371						3
+EEE371						3
+CPE311						3
+CPE351						2
+CPE 381						3
+CPE 313						2
+TOTAL						23
+Second Semester
+CPE314						3
+CPE 302						2
+CPE 372						3
+CPE304						1
+CPE378						3
+CPE399						2
+CPE 382						3
+CPE 324						2
+CPE321						2
+TOTAL						21
+Course Code						Credits
+First Semester
+CPE477						3
+CPE 401						2
+CPE 475						3
+CPE473						3
+CPE457						2
+CPE479						2
+CPE451						3
+CED300						2
+TOTAL						26
+Second Semester
+UBT400						6
+TOTAL						6
+Course Code						Credits
+First Semester
+CPE515						3
+CPE 501						3
+CPE573						3
+CPE591						3
+CPE575						3
+CPE571						3
+CPE513						2
+CPE 504						2
+TOTAL						22
+Second Semester
+PRE572						3
+CPE512						3
+CPE522						3
+CPE556						3
+CPE 502						3
+OPTIONAL						 
+CPE534						2
+CPE524						2
+CPE526						2
+CPE554						2
+CPE514						3
+CPE516						2
+TOTAL						22
+						
+
+STRUCTURAL ENGINEERING
+https://eng.uniben.edu/structural-engineering/
+
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA 281						2
+ECP 281						2
+ENS 211						2
+MEE211						3
+MEE221						3
+EEE 211						3
+PRE 211						2
+CVE 211						3
+ELA 201						2
+                                                                                           Total Credits						22
+Second Semester
+EMA282						4
+CHE 222						3
+MEE212						3
+MEE 222						3
+EEE212						3
+PRE 212						2
+CVE 212						3
+ELA 202						2
+                           Total Credit						23
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA 381						3
+MEE 351						2
+MEE361						2
+PRE 311						2
+CVE 311						3
+CVE313						3
+STE 311						2
+CVE 341						3
+EEE 317						3
+ELA 301						2
+Total Credits						25
+Second Semester
+EMA 382						4
+MEE 362						2
+CVE 312						3
+CVE314						2
+CVE 316						3
+STE 312						2
+CVE342						2
+CVE 344						2
+CVE 352						3
+ELA 302						2
+                      Total Credits						25
+COURSE CODE						COURSE CREDIT
+First Semester
+CVE481						3
+STE411						2
+STE413						2
+CVE415						2
+STE417						2
+STE415						2
+STE425						2
+CVE441						2
+CVE451						3
+CVE471						2
+ELA401						2
+                                                                                Total Credits						24
+Second Semester
+UBT400						6
+                                                                                Total Credits						6
+COURSE CODE						COURSE CREDIT
+First Semester
+PRE 571						3
+STE 511						2
+STE 513						2
+STE 515						3
+STE 517						2
+CVE 541						2
+STE 501						3
+CVE 581						2
+ 						 
+STE 531						3
+STE 533						3
+STE 535						3
+                                                    Total Credits						22
+Second Semester
+PRE 572						3
+CVE 514						2
+STE 512						2
+STE 514						2
+STE 516						2
+STE 518						2
+CVE 542						2
+STE 502						3
+ 						 
+STE 532						3
+STE 534						3
+STE 536						3
+Total Credit						21
+
+CIVIL ENGINEERING
+https://eng.uniben.edu/course-structure-for-b-eng-civil-engineering/
+
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA 281						2
+ECP 281						2
+ENS 211						2
+MEE 211						3
+MEE 211						3
+EEE 211						3
+PRE 211						2
+CVE211						3
+ELA 211						2
+                                                                               Total Credits						22
+Second Semester
+EMA282						4
+CHE 222						3
+MEE 212						3
+MEE222						3
+EEE212						3
+PRE 212						2
+CVE 212						3
+ELA 202						2
+                                                                               Total Credits						23
+COURSE CODE						COURSE CREDIT
+First Semester
+EMA 381						3
+MEE 351						2
+MEE 361						2
+PRE 311						2
+CVE 311						3
+CVE 313						3
+CVE 341						3
+EEE 317						3
+ELA 301						2
+                                                                             Total Credits						23
+Second Semester
+MEE 362						2
+CVE 312						3
+CVE 314						2
+CVE 342						2
+CVE 344						2
+CVE 352						3
+ELA 302						2
+EMA 382						4
+CVE 316						2
+                                                      Total Credits						23
+COURSE CODE						COURSE CREDIT
+First Semester
+CVE 411						2
+CVE413						2
+CVE415						2
+CVE 421						2
+CVE 423						2
+CVE431						3
+CVE 441						2
+CVE 451						3
+CVE 471						2
+CVE 481						3
+ELA 401						2
+                                                                      Total Credits						25
+Second Semester
+University of Benin Industrial Training Scheme for Six Months						University of Benin Industrial Training Scheme for Six Months
+COURSE CODE						COURSE CREDIT
+First Semester
+PRE 571						3
+CVE 511						2
+CVE 513						2
+CVE 521						2
+CVE 523						2
+CVE 531						3
+CVE 541						2
+CVE 501						3
+CVE 581						2
+OPTIONAL COURSES						 
+CVE 515						3
+CVE 525						3
+CVE 535						3
+CVE 545						3
+CVE 565						3
+CVE 567						3
+Total Credits						21
+Second Semester
+PRE 572						3
+CVE 512						2
+CVE 514						2
+CVE 522						2
+CVE 542						2
+CVE 502						3
+OPTIONAL COURSES						 
+CVE 516						3
+CVE 526						3
+CVE 536						3
+CVE 546						3
+CVE 566						3
+                                                                                  Total Credits						17
+
+PETROLEUM ENGINEERING
+https://eng.uniben.edu/bachelor-of-engineering-petroleum-engineering-course-structure/
+
+Course Code						Course Credit
+First Semester
+EMA281						2
+PEE281						2
+MEE211						3
+MEE221						3
+EEE211						3
+CVE211						3
+PRE211						2
+ELA201						2
+ENS211						2
+PEE211						2
+Total Credits						24
+Second Semester
+EMA282						4
+MEE212						3
+MEE222						3
+EEE212						3
+CHE222						3
+PRE212						2
+ELA202						2
+PEE212						2
+Total Credits						22
+Course Code						Course Credit
+First Semester
+EMA381						3
+MEE351						2
+CVE311						3
+CHE331						2
+PEE331						2
+MEE361						2
+PEE343						3
+PEE355						2
+ELA301						2
+ 						21
+Second Semester
+PEE322						4
+EMA382						4
+MEE352						2
+PEE358						3
+PEE344						2
+PEE342						3
+PEE332						3
+ELA302						2
+Total Credits						23
+Course Code						Course Credit
+First Semester
+PEE431						2
+EMA481						3
+PEE441						3
+PEE411						2
+PEE451						3
+PEE461						3
+PEE471						3
+PEE401						2
+CED300						2
+Total Credits						26
+Second Semester
+UBT400						6
+Total Credits						6
+Course Code						Course Credit
+First Semester
+PRE571						3
+PEE531						3
+PEE561						3
+PEE571						3
+PEE581						3
+PEE591						3
+PEE500						3
+Total Credits						21
+Second Semester
+PRE572						3
+PEE582						3
+PEE562						3
+PEE572						3
+PEE532						3
+PEE592						3
+PEE593						3
+PEE500						3
+Total Credits						24
