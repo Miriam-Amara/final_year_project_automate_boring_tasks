@@ -1,0 +1,7 @@
+__pycache__/
+.env
+course_materials_storage.json
+models.log
+organize_course_materials.log
+course_materials.py
+test_validatecoursemetadata.py
